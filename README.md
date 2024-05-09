@@ -115,6 +115,7 @@ See the file [data_analysis.xlsx](data_analysis.xlsx) for the detailed analysis 
 
 - [The Excel file containing the data analysis](./docs/data_analysis.xlsx)
 - [Project Proposal submitted to IIT Madras](./docs/project_proposal_21f1002696.pdf)
+- [Mid-term Project Report submitted to IIT Madras](./docs/Mid_Term_Submission_21f1002696.pdf)
 - [Final Project Report submitted to IIT Madras](./docs/Final_Submission_21f1002696.pdf)
 
 ## Recommendations made
@@ -127,7 +128,6 @@ See the file [data_analysis.xlsx](data_analysis.xlsx) for the detailed analysis 
 - The findings were discussed with the owner
 - Recommendations were acknowledged and the owner was happy with the insights provided
 - An interview was set up with a working professional in this field to evaluate the analysis
-
 
 [^1]: [BSMS2001P Course Page](https://study.iitm.ac.in/ds/course_pages/BSMS2001P.html)
 [^2]: [IIT Madras](https://study.iitm.ac.in/ds/index.html)
