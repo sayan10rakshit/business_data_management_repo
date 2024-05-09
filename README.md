@@ -61,6 +61,17 @@ mkdir 19-20csv 20-21csv 21-22csv
 - ***Convert the raw data files to csv format***
 
 ```bash
+# script requires pandas and openpyxl
+pip install pandas
+pip install openpyxl
+```
+
+```bash
+# upgrade openpyxl to the latest version if already installed
+pip install --upgrade openpyxl
+```
+
+```bash
 python3 xlsx_to_csv.py
 ```
 
@@ -113,8 +124,10 @@ See the file [data_analysis.xlsx](data_analysis.xlsx) for the detailed analysis 
 
 ## Final Words
 
-- The entire findings were discussed with owner of the firm
-- An interview was set with a working professional for the evaluation of my project
+- The findings were discussed with the owner
+- Recommendations were acknowledged and the owner was happy with the insights provided
+- An interview was set up with a working professional in this field to evaluate the analysis
+
 
 [^1]: [BSMS2001P Course Page](https://study.iitm.ac.in/ds/course_pages/BSMS2001P.html)
 [^2]: [IIT Madras](https://study.iitm.ac.in/ds/index.html)
