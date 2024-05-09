@@ -109,7 +109,7 @@ The data analysis was performed using
 - **Excel**
 - **Tableau**
 
-See the file [data_analysis.xlsx](data_analysis.xlsx) for the detailed analysis done using Excel.
+See the file [data_analysis.xlsx](./docs/data_analysis.xlsx) for the detailed analysis done using Excel.
 
 ### All documents related to the data analysis and reporting
 
