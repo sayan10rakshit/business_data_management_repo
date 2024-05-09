@@ -3,7 +3,7 @@
  **A comprehensive data analysis of a real time manufacturing firm based in Kolkata**
 
 > [!NOTE]
-> This is a project done as part of the **BSMS2001P Business Data Manegement (BDM)** course at **IIT Madras** [^1] [^2]
+> This is a project done as part of the **BSMS2001P Business Data Management (BDM)** course at **IIT Madras** [^1] [^2]
 >
 > As part of the course, I have chosen to analyze the data of a **corrugated box manufacturing firm** based in Kolkata. The data was collected from the firm's accounting software and was analyzed upon discussing with the firm's owner on the pain points.
 >
